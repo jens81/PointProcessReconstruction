@@ -1,0 +1,4 @@
+name = "PointProcessLearning"
+uuid = "cf2b1be6-873f-4708-833c-de8a969e0c21"
+authors = ["Jens Michelsen <jens.michelsen@gmail.com>"]
+version = "0.1.0"
